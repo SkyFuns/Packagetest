@@ -1,0 +1,10 @@
+{
+    "name": "aex/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "liangyl",
+            "email": "634689854@qq.com"
+        }
+    ],
+    "require": {}
+}
